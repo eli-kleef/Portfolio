@@ -1,0 +1,154 @@
+#home{
+	color:white;
+}.navbar-default{
+	background-color:white;
+	border-color:white;
+}.top-border{
+	border-top: 5px solid darkorange;
+	border-bottom:1px solid #DDD;
+	border-right:1px solid #DDD;
+	border-left:1px solid #DDD;
+    margin:0px 10px;
+}.wrapper{
+	width:77%;
+	margin:auto;
+}.company{
+	width:77%;
+	margin:auto;
+}.page-heading{
+	padding:0px;
+	width:100%;
+	margin:auto;
+}.glyphicon-shopping-cart{
+	color:orange;	
+}.cart-text{
+	margin-left:10px;
+	color:orange;
+}.homeBkgrnd{
+	background-color:orange;
+}.badger{
+	
+}.container-fluid, .navbar-collapse{
+	padding-left:0px;
+}.machinary-text{
+	font-size:10px;
+	font-weight:800;
+	font-style:italic;
+	color:gray;
+	line-height:1;
+}.badger h1{
+	margin-bottom:0px;
+	line-height:0.5;
+}.badger-heading{
+	margin-bottom:20px;
+}.user{
+	margin-top:20px;
+}.glyphicon-user{
+	
+}.user-text{
+	margin-left:10px;
+	font-weight:800;
+	color:#9D9D9D;
+	font-family:verdana;
+}.no-border{
+	border:0px;
+}.btn .caret {
+    margin-left: 3px;
+    vertical-align: initial;
+}.search-input{
+	height:50px;
+	border:2px solid #eee;
+}.search-btn{
+	height:50px;
+	background-color:#eee;
+	border:2px solid #eee;
+}.search-text{
+	color:#eee;
+	font-size:1.5em;
+	font-style:italic;
+}.home-border{
+	border: 1px solid #ddd;
+	border-bottom:3px solid darkorange;
+    margin: 0px 10px;
+    width: 89%%;
+    margin-left: 196px;
+}.home-inner{
+	border:0px solid #ddd;
+	width:80%;
+	float:left;
+	height:100%;
+}.tile{
+	width:250px;
+	height:400px;
+	margin-left:112px;
+	margin-bottom:40px;
+	float:left;
+}.sortPriceBtn{
+	width:200px;
+	padding:3px;
+	text-align:center;
+	color:#b9b9b9;
+	margin:20px 0px;
+}.sortPriceCol{
+	text-align:center;
+}.btn .sortPriceCaret{
+	margin-left: 90px;
+    margin-bottom: 5px;
+    color: #b9b9b9;
+}.compareProductsBtn{
+	width:200px;
+	padding:3px;
+	text-align:left;
+	color:#b9b9b9;
+	margin:20px 0px;
+}.btnPad{
+	padding-left:54px;
+}img{
+	width:250px;
+	height:120px;
+	border:1px solid green;
+}.productTitle{
+	width:250px;
+	height:40px;
+	color:blue;
+	font-size:1.5em;
+	padding:5px 3px; 
+}.tileText{
+	width:250px;
+	height:100px;
+	padding:3px;
+}.msrp{
+	width:250px;
+	height:20px;
+	color:grey;
+	margin-left:110px;
+}.price{
+	width:250px;
+	height:20px;
+	color:grey;
+	margin-left:110px;
+}.cartBtn{
+	background-color:orange;
+	border:0px;
+}.shpCrt{
+	color:white;
+	margin-right:10px;
+}.compart{
+	border:1px solid violet;
+}.drpBtn{
+	background-color:#442524;
+	border-radius:0px;
+	color:grey;
+	border:0px;
+}.compare-text{
+	vertical-align:inherit;
+	margin-left:5px;
+}.btn .ckBox{
+	vertical-align:middle;
+	margin:0px;
+}.compare{
+	margin-top:10px;
+	text-align:center;
+	
+	
+}
