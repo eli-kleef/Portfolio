@@ -1,0 +1,71 @@
+body{
+	background-color: #3e4149;
+}
+.header {
+	background-color: #2b2f33;
+	padding: 15px;
+}
+.globe {
+	text-align: right;
+}
+.main-content {
+	padding: 60px;
+	color: white;
+}
+.icon {
+	text-align: center;
+}
+.symbol {
+	float:right;
+}
+.card-header:first-child {
+    border-radius: 0px;
+    border-bottom: 0px;
+}
+#headingOne, #collapseOne, .R540, .ser1 {
+	background-color: #2595ce;
+}
+#headingTwo, #collapseTwo, .R410, .ser2 {
+	background-color: #1c5f88;
+}
+#headingThree, #collapseThree, .R720, .ser3 {
+	background-color: #0b3d5d;
+}
+
+.R540, .R410, .R720, .ser1-img, .ser2-img, .ser3-img {
+	text-align: center;
+}
+.server1, .server2, .server3 {
+	font-size: 1.5em;
+	color:white;
+}
+.card-body {
+	color: white;
+}
+.card {
+	border-radius: 0px;
+	border: 0px;
+}
+
+@media(min-width:768px) {
+	.acordion {
+		display: none;
+	}
+}
+@media(max-width: 767px) {
+	.main {
+		display: none;
+	}
+}
+
+h3 {
+	padding: 15px 0px 0px 10px;
+}
+.ser-text {
+	padding: 30px 0px;
+	line-height: 1;
+}
+.btn-img {
+	padding-bottom: 40px;
+	text-align: center;
+}
